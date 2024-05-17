@@ -1,0 +1,20 @@
+[
+  {
+  "name": "Joel Miller",
+  "age": 52,
+  "isMarried": false,
+  "personPhoto": "https://64.media.tumblr.com/1fee213e5c182baccfad56cbaa48ef7a/95ab6066cb75d438-66/s640x960/3c6784589d72ddba829d62dc655ba4c112e4418d.jpg"
+  },
+  {
+  "name": "Katniss Everdeen",
+  "age": 27,
+  "isMarried": true,
+  "personPhoto":"https://st4.styapokupayu.ru/images/blog_posts/covers/000/146/754_large.jpg?1448376301"
+  },
+  {
+  "name": "Geralt of Rivia",
+  "age": 100,
+  "isMarried": false,
+  "personPhoto":"https://citaty.info/files/characters/17730.png"
+  }
+]

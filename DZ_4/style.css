@@ -1,0 +1,43 @@
+body {
+    background-image: url("jinx.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.card {
+    border: 1px solid rgba(230, 0, 255, 0.76);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: auto;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgba(139, 80, 250, 0.42);
+}
+
+.person-photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+h3 {
+    margin: 5px 0;
+}
+
+span {
+    display: block;
+    margin-bottom: 5px;
+}
+.card:hover {
+    box-shadow: 0 0 10px rgba(102, 0, 255, 0.84);
+}
